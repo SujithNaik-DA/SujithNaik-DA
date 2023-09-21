@@ -15,7 +15,7 @@
 
 🏗️ I'm excited to connect with like-minded individuals who share an interest in the intersection of data and civil engineering. Let's collaborate, learn, and explore how data-driven insights can drive innovation in the construction and infrastructure industry.
 
-📧 Feel free to reach out if you want to connect or discuss opportunities in the fascinating world of data analytics and civil engineering.
+📧 Feel free to reach out if you want to connect or discuss opportunities in the fascinating world of data analytics.
 
 Find me on LinkedIn ➡︎ [@SujithNaik](https://www.linkedin.com/in/sujith-naik)
 
