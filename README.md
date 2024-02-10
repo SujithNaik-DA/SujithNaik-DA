@@ -1,9 +1,9 @@
 ### Hi there 👋
 # 👋 Hello, I'm Sujith Naik!
 
-🎓 I have a Bachelor's degree in Civil Engineering, and I'm currently pursuing a career transition into the field of data analytics.
+🎓 I hold a Bachelor's degree in Engineering and have recently completed a data analytics course at Grate Learning. 
 
-🔍 My background in civil engineering has equipped me with problem-solving skills and a keen eye for detail. With a passion for data, I've firmly set my course in the world of Data Analytics. My experience as a civil engineer has honed my precision and accuracy. Now, I'm applying these skills to the field of Data Analytics, where my goal is to uncover insights, optimize processes, and drive data-driven decisions.
+My engineering background has instilled in me problem-solving abilities and attention to detail. Fueled by a passion for data, I am transitioning into the field of Data Analytics. My experience as an engineering graduate has sharpened my precision and accuracy, which I am now leveraging to uncover insights, optimize processes, and drive data-driven decisions in my new career path.
 
 📊 Data is my passion, and I'm currently honing my skills in data analytics through a comprehensive course at Great Learnings. My coursework covers a range of tools and languages, including:
    - Excel
@@ -12,6 +12,7 @@
    - Power BI
    - Tableau
    - Machine Learning
+   - ETL Tools
 
 🏗️ I'm excited to connect with like-minded individuals who share an interest in the intersection of data and civil engineering. Let's collaborate, learn, and explore how data-driven insights can drive innovation in the construction and infrastructure industry.
 
